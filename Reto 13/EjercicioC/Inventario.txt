@@ -1,0 +1,3 @@
+
+Equipo: CI:1234 Desc: mouse Cantidad 1 Costo 145 Fecha 01/02/2022 Factura 1556
+Equipo: CI:1234 Desc: caja Cantidad 1 Costo 14 Fecha 14/02/2023 Factura 4565
